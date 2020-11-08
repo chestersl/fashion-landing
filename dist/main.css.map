@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/scss/index.scss"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SAAU,CACb,GAEG,cAAe,CAClB,GAEG,gBAAiB","file":"main.css","sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\nh1{\r\n    font-size: 24px;\r\n}\r\nh2{\r\n    font-weight: bold;\r\n}"],"sourceRoot":""}
